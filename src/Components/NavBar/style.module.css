@@ -1,0 +1,9 @@
+.navbar {
+    display: flex;
+}
+.navItem{
+    margin: 10px;
+}
+.navLink {
+    color: #61dafb;
+}

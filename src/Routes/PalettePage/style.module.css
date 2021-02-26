@@ -1,0 +1,29 @@
+.content {
+    width: 80vw;
+    height: 100vh;
+    background-color: #000;
+    border-radius: 90px;
+    margin: .5% auto;
+    min-width: 375px;
+    border: 43px solid #282c34;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.title {
+    color: rgba(235, 235, 245, 0.6);
+}
+
+.colorEdit{
+    width: 343px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #007AFF;
+    color: #fff;
+    font-size: 17px;
+    line-height: 22px;
+    border: 0;
+    margin: 48px 0;
+    cursor: pointer;
+}
